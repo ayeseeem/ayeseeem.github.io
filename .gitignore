@@ -1,0 +1,7 @@
+# ignore back-ups
+*.bak
+*~
+
+#ignore thumbnails created by windows
+Thumbs.db
+
