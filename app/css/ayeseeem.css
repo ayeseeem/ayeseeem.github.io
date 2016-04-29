@@ -1,0 +1,26 @@
+body {
+  font: 500 14px/21px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 40px;
+  background-image: url("../resources/background-tile--invisible.png");
+}
+
+#footer {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 1.5em;
+  opacity: 0.5;
+}
+
+#footer a {
+  color: #999;
+}
+
+.ayeseeem-inline-icon {
+  height: 20px;
+  vertical-align: text-bottom;
+}
+
+.so-inline-icon {
+  vertical-align: text-bottom;
+}
+
