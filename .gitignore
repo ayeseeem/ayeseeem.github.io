@@ -5,3 +5,6 @@
 #ignore thumbnails created by windows
 Thumbs.db
 
+# NetBeans
+# - always recommended to ignore:
+/nbproject/private/
