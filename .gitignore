@@ -8,3 +8,7 @@ Thumbs.db
 # NetBeans
 # - always recommended to ignore:
 /nbproject/private/
+
+# Eclipse
+.project
+.settings
