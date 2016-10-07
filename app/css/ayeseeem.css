@@ -1,5 +1,8 @@
 body {
-  font: 500 14px/21px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: 'Helvetica Neue', Helvetica, Arials, sans-serif;
   padding: 40px;
   background-image: url("../resources/background-tile--invisible.png");
 }
