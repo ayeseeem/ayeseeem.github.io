@@ -15,3 +15,5 @@ where you think a letter would appear in the dictionary.
 
 Before creating that, I'm just gathering some initial data and seeing what it
 looks like.
+There is [Raw Data on Word Distribution](dictionary-raw-data.md).
+And a graph in an [OpenDocument Spreadsheet](dictionary.ods).
